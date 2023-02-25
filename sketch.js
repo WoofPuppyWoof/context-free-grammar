@@ -29,7 +29,7 @@ var rules = { // translated
     ["seagull"],
     ["trombone"],
     ["overstaffed"],
-    ["corsage"],
+    ["dog"],
     ["restaurant"],
     ["suburb"]
   ],
