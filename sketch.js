@@ -1,4 +1,4 @@
-var rules = { // translated
+var rules = {
   "S": [
     ["NP", "VP"],
     ["Interj", "NP", "VP"]
