@@ -28,7 +28,6 @@ var rules = { // translated
     ["dichotomy"],
     ["seagull"],
     ["trombone"],
-    ["overstaffed"],
     ["dog"],
     ["restaurant"],
     ["suburb"]
